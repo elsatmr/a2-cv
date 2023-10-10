@@ -1,0 +1,9 @@
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/FeatureVectorWriter.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/BaselineMatcherMain.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/HistogramMain.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/MultiHistogramMain.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/TextureColor.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/CustomDesign.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/BlueTrash.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/edit_cache.dir
+/Users/elsatamara/Downloads/csv_util/bin/CMakeFiles/rebuild_cache.dir
